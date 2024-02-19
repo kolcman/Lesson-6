@@ -1,21 +1,31 @@
 ﻿// Task 1
 
-int[,] table = new int[3, 5];
+showArray(CreateArray(3, 5));
 
-Random rnd = new Random();
-for (int i = 0; i < table.GetLength(0); i++)
+
+int[,] CreateArray(int rowCount, int columsCount)
 {
-    for (int j = 0; j < table.GetLength(1); j++)
+    int[,] table = new int[rowCount, columsCount];
+
+    Random rnd = new Random();
+    for (int i = 0; i < table.GetLength(0); i++)
     {
-        table[i, j] = rnd.Next(1, 11);
+        for (int j = 0; j < table.GetLength(1); j++)
+        {
+            table[i, j] = rnd.Next(1, 11);
+        }
     }
+    return table;
 }
 
-for (int i = 0; i < table.GetLength(0); i++)
+void showArray(int[,] table)
 {
-    for (int j = 0; j < table.GetLength(1); j++)
+    for (int i = 0; i < table.GetLength(0); i++)
     {
-        System.Console.Write($"{table[i, j]} ");
+        for (int j = 0; j < table.GetLength(1); j++)
+        {
+            System.Console.Write($"{table[i, j]} ");
+        }
+        Console.WriteLine();
     }
-    Console.WriteLine();
 }
