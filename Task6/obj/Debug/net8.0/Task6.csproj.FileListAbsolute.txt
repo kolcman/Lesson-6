@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.sourcelink.json
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\bin\Debug\net8.0\Task6.exe
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\bin\Debug\net8.0\Task6.deps.json
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\bin\Debug\net8.0\Task6.dll
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\bin\Debug\net8.0\Task6.pdb
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.dll
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\refint\Task6.dll
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.pdb
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+C:\Users\Max\Desktop\GB\Lesson6 - TwoDimenArray\Task6\obj\Debug\net8.0\ref\Task6.dll
